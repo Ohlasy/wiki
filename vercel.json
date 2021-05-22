@@ -1,0 +1,9 @@
+{
+    "redirects": [
+        {
+            "source": "/",
+            "destination": "https://www.notion.so/ohlasy/Ohlasy-Wiki-e2b47027b2ea46b8867d69e100723d6b",
+            "permanent": false
+        }
+    ]
+}
